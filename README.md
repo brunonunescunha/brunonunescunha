@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do bruno nunes cunha
+## Bem-vindo(a) ao perfil do Bruno Nunes Cunha
 
  <div>
    <a href="https://github.com/brunonunescunha">
