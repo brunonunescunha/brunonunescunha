@@ -22,7 +22,7 @@
  
 <div> 
 
- <a herf="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a herf="https://www.https://www.linkedin.com/in/bruno-nunes-b39ba4188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/brunonunescunha/brunonunescunha/blob/output/github-contribution-grid-snake.svg)
    
